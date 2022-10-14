@@ -1,4 +1,4 @@
-### <h1 align="center">hacktoberfest-begginer-repo-2022</h1>
+### <h1 align="center">Hacktoberfest-begginer-repo-2022</h1>
 
 <img src = "assets/fontpage.png" alt = "no">
 
@@ -29,7 +29,69 @@
 <br><br>
 Create a GitHub account, if you don't already have one. Need help? Here are some resources to help you set up your GitHub account:
 
-- https://ayushirawat.com/what-is-git-and-github-or-git-vs-github
-- https://www.youtube.com/playlist?list=PLjaO05BrsbIPUT76gpBmUxV7YSPWFephT
+- https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account
+- https://www.youtube.com/watch?v=QUtk-Uuq9nE
 - https://www.youtube.com/playlist?list=PLseEp7p6EwiZgLPknY4ITJxfoo75wqxph
   <br></br>
+
+##
+
+### 2. Register for Hacktoberfest: Navigate to the [Hacktoberfest registration page](https://hacktoberfest.com/) and follow the instructions. But, read the rules carefully before you do and then sign In using your GitHub credentials.
+
+<br></br>
+<img src = "assets/photo2.png" alt = "no">
+<br></br>
+
+##
+
+### 3. Then go to https://github.com/abhijitmondal121/Hacktoberfest-beginner-coding-2022 and click on *"star"*🌟 and *"fork"*🍴.
+
+<br></br>
+<img src = "assets/photo3.png" alt = "no">
+<br></br>
+
+##
+
+### 4. Now click on the "_Programs_" folder and click on "_add file_ and click on "_create new file_"📁.
+
+<br></br>
+<img src = "assets/photo4.png" alt = "no">
+<br></br>
+
+##
+
+### 5. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. For eg.- prime.py
+
+<br></br>
+<img src = "demo/s5.png" alt = "no">
+<br></br>
+
+##
+
+### 6. Go to the bottom of the page and click on the "_Commit changes_"✔️ button.
+
+<br></br>
+<img src = "demo/s6.png" alt = "no">
+<br></br>
+
+##
+
+### 7. On the next window, click on the "_Pull Request_"✔️ button.
+
+<br></br>
+<img src = "demo/s7.png" alt = "no">
+<br></br>
+
+##
+
+### 8. Click on the *"Create Pull Request Button"*✔️.
+
+<br></br>
+<img src = "demo/s8.png" alt = "no">
+
+##
+
+### And again on the same button on the next window.
+
+  <img src = "demo/s9.png" alt = "no">
+<br></br>
