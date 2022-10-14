@@ -1,8 +1,8 @@
-### <div align="center">hacktoberfest-begginer-repo-2022</div>
+### <h1 align="center">hacktoberfest-begginer-repo-2022</h1>
 
 <img src = "assets/fontpage.png" alt = "no">
 
-<h1 align="center"> Hacktoberfest 2022 </h1>
+<h2 align="center"> Hacktoberfest 2022 </h2>
 
 <h3 align="center">
     <a href="https://hacktoberfest.com/">
@@ -19,4 +19,16 @@
 - All backgrounds and skill levels are encouraged to complete the challenge.
 - Hacktoberfest is a celebration open to everyone in our global community.
 - You can sign up **anytime between October 1 and October 31**.
-<br></br>
+  <br></br>
+
+### <div align="center">STEPS:-</div>
+
+### 1. Create a GitHub account:
+
+<a href="https://github.com/"><img src=assets/github.png alt="github logo"/</a>
+Create a GitHub account, if you don't already have one. Need help? Here are some resources to help you set up your GitHub account:
+
+- https://ayushirawat.com/what-is-git-and-github-or-git-vs-github
+- https://www.youtube.com/playlist?list=PLjaO05BrsbIPUT76gpBmUxV7YSPWFephT
+- https://www.youtube.com/playlist?list=PLseEp7p6EwiZgLPknY4ITJxfoo75wqxph
+  <br></br>
