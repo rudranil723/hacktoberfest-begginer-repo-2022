@@ -25,7 +25,7 @@
 
 ### 1. Create a GitHub account:
 
-<a href="https://github.com/"><img src=assets/github.png alt="github logo"/</a>
+<a href="https://github.com/"><img src=assets/github.png alt="github logo"/></a>
 Create a GitHub account, if you don't already have one. Need help? Here are some resources to help you set up your GitHub account:
 
 - https://ayushirawat.com/what-is-git-and-github-or-git-vs-github
