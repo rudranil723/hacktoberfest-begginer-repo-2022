@@ -63,7 +63,7 @@ Create a GitHub account, if you don't already have one. Need help? Here are some
 ### 5. Type the name of the code with the proper extensions and then type the code⌨️ in the given area. For eg.- prime.py
 
 <br></br>
-<img src = "demo/s5.png" alt = "no">
+<img src = "assets/photo5.png" alt = "no">
 <br></br>
 
 ##
@@ -71,7 +71,7 @@ Create a GitHub account, if you don't already have one. Need help? Here are some
 ### 6. Go to the bottom of the page and click on the "_Commit changes_"✔️ button.
 
 <br></br>
-<img src = "demo/s6.png" alt = "no">
+<img src = "assets/photo6.png" alt = "no">
 <br></br>
 
 ##
@@ -79,7 +79,7 @@ Create a GitHub account, if you don't already have one. Need help? Here are some
 ### 7. On the next window, click on the "_Pull Request_"✔️ button.
 
 <br></br>
-<img src = "demo/s7.png" alt = "no">
+<img src = "assets/photo7.png" alt = "no">
 <br></br>
 
 ##
@@ -87,11 +87,25 @@ Create a GitHub account, if you don't already have one. Need help? Here are some
 ### 8. Click on the *"Create Pull Request Button"*✔️.
 
 <br></br>
-<img src = "demo/s8.png" alt = "no">
+<img src = "assets/photo8.png" alt = "no">
 
 ##
 
 ### And again on the same button on the next window.
 
-  <img src = "demo/s9.png" alt = "no">
+  <img src = "assets/photo9.png" alt = "no">
 <br></br>
+
+##
+## <div align="center">  Congratulations!! 🥰 buddy </div>
+## <div align="center">✌You just created your 1st PULL-REQUEST💕</div>
+
+
+## HacktoberFest Rules :
+
+- To earn your Hacktoberfest tee or tree reward, you must **register** and make **four valid pull requests** (PRs) between October 1-31 (in any time zone).
+- Pull requests can be made in any participating GitHub or GitLab hosted repository/project. Look for the `hacktoberfest` topic to know if a repository/project is participating in Hacktoberfest.
+- Pull requests must be approved by a maintainer of the repository/project to count.
+- If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
+- This year, the first **55,000** participants who successfully complete the challenge will be eligible to receive a prize.
+
