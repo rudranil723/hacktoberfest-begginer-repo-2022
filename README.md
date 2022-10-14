@@ -97,9 +97,10 @@ Create a GitHub account, if you don't already have one. Need help? Here are some
 <br></br>
 
 ##
-## <div align="center">  Congratulations!! 🥰 buddy </div>
-## <div align="center">✌You just created your 1st PULL-REQUEST💕</div>
 
+## <div align="center"> Congratulations!! 🥰 buddy </div>
+
+## <div align="center">✌You just created your 1st PULL-REQUEST💕</div>
 
 ## HacktoberFest Rules :
 
@@ -109,3 +110,4 @@ Create a GitHub account, if you don't already have one. Need help? Here are some
 - If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
 - This year, the first **55,000** participants who successfully complete the challenge will be eligible to receive a prize.
 
+## <div align="center"> contributed By: Rudranil Shil (rudy) 🔥</div>
