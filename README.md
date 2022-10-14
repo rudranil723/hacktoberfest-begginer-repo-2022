@@ -110,4 +110,8 @@ Create a GitHub account, if you don't already have one. Need help? Here are some
 - If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
 - This year, the first **55,000** participants who successfully complete the challenge will be eligible to receive a prize.
 
-## <div align="center"> contributed By: Rudranil Shil (rudy) 🔥</div>
+## <a href="https://rudranilshil.me/">
+
+<div align="center"> contributed By: Rudranil Shil (rudy) 🔥</div>
+
+</a>
