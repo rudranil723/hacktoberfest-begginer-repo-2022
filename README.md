@@ -1,4 +1,4 @@
-### <h1 align="center">Hacktoberfest-begginer-repo-2022</h1>
+### <h1 align="center">Hacktoberfest-beginner-repo-2022</h1>
 
 <img src = "assets/fontpage.png" alt = "no">
 
@@ -112,4 +112,4 @@ Create a GitHub account, if you don't already have one. Need help? Here are some
 
 ## <a href="https://rudranilshil.me/"><div align="center"> contributed By: Rudranil Shil (rudy) 🔥</div></a>
 
-<div>kindly add the files in appropiate folder, or the pull request won't be accepted </div>
+<div>kindly add the files in appropriate folder, or the pull request won't be accepted </div>
