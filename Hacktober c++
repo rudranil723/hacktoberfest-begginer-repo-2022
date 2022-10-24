@@ -1,0 +1,11 @@
+#include<bits.std/c++.h>
+using namespace std;
+
+int main() {
+int initial=1;
+while(initial<=10){
+cout<<initial<<endl;
+initial=initial+1;
+}
+return0;
+}
