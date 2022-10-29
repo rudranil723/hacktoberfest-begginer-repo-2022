@@ -1,0 +1,24 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int main() {
+int number_of_marked=0;
+for(int current=1;current<=7;current=current+1){
+if(number_of_marked==2){
+break;
+}
+else{
+if(current==marked){
+cout<<current<<endl;
+number_of_marked=number_of_marked+1;
+if(number_of_marked<2){
+continue;
+}
+else{
+break;
+}
+else{
+continue;
+}
+return0;
+}
