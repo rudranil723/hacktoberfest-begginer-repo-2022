@@ -1,0 +1,20 @@
+#Python script to get the file attribute information 
+
+import os
+
+file_name = r"C:\Users\user\Desktop\text.txt"  #any valid file location
+
+if os.path.isfile(file_name):
+'''
+can use this inside os.path.dir(directory) , as in here
+directory = #any calid directory (make sure you pass string directory as r string or use \\ for directory
+
+for file_name in os.listdir(directory):
+  if os.path.isfile(file_name):
+
+'''
+    info = os.stat(file_name)
+    #get more info about output type (type(info)) here - https://bit.ly/3Fp9NuY
+    print("size of file = ", info.st_size, " Bytes")
+    print("most recent access time = ", info.st_atime , " sec")
+    print("most recent modification time = ", info.st_mtime, " sec")
